@@ -1,0 +1,27 @@
+name: WakaTime Readme
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Aggiorna ogni giorno a mezzanotte
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update WakaTime Readme
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Update WakaTime Section
+        uses: athul/waka-readme@v3
+        with:
+          WAKATIME_API_KEY: $ciaowakatime
+
+      - name: Commit Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Updated WakaTime stats" || exit 0
+          git push
