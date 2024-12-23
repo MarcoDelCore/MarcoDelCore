@@ -16,7 +16,7 @@ jobs:
       - name: Update WakaTime Section
         uses: athul/waka-readme@v3
         with:
-          WAKATIME_API_KEY: $ciaowakatime
+          WAKATIME_API_KEY: $waka_1cccc29a-fb32-4713-aca9-aad66f8d0a9b
 
       - name: Commit Changes
         run: |
