@@ -1,7 +1,4 @@
-<h1 align="center">Hi :wave:, I'm Marco</h1>
-
-<h3 align="center">I'm a tech passionate graduated in Cybernetic Engineering 🤖<br>
-Now studying Artificial Intelligence! 🧠</h3>
+<h1 align="center">Hey there! 👋 I'm Marco</h1> <h3 align="center">🎓 Computer Engineer turned AI Explorer 🌌</h3>
 
 ## :octocat: GitHub <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">Profile Summary</a>
 
