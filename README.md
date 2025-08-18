@@ -40,20 +40,18 @@ Sunday                   4 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Jupyter                  23 mins             ██████████████████████░░░   86.13 % 
-Python                   3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  25 mins             ███████████████████████░░   93.46 % 
-VS Code                  1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Group-project-CE903_HR   27 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      27 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 17/08/2025 01:44:51 UTC
+ Last Updated on 18/08/2025 01:45:20 UTC
 <!--END_SECTION:waka-->
