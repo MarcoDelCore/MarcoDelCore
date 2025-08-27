@@ -9,7 +9,7 @@
 ## :clock3: My Coding Time 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs%2038%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-105.3%20thousand%20lines%20of%20code-blue)
 
@@ -40,18 +40,19 @@ Sunday                   4 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   21 mins             █████████████████████░░░░   83.28 % 
+Jupyter                  4 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  25 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Group-project-CE903_HR   25 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      25 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/08/2025 01:25:46 UTC
+ Last Updated on 27/08/2025 01:23:01 UTC
 <!--END_SECTION:waka-->
