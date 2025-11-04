@@ -9,8 +9,6 @@
 ## :clock3: My Coding Time 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-221%20hrs%2023%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-105.4%20thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -60,5 +58,5 @@ Mac                      7 hrs 57 mins       ███████████�
 ```
 
 
- Last Updated on 03/11/2025 22:04:10 UTC
+ Last Updated on 04/11/2025 01:26:13 UTC
 <!--END_SECTION:waka-->
